@@ -1,0 +1,10 @@
+{
+  "FIO" : "Головин Данил",
+  "age" : 28,
+  "animal" : 1,
+  "favorite movie" : "Harry Potter", 
+  "favorite TV series" : "Supernatural", 
+  "favorite food"  : "buters",
+  "favorite time of the year" : "spring", 
+  "the country you would like to visit" : ["Austria", "Norway"]
+}
